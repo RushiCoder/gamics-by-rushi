@@ -6,7 +6,7 @@
 
   This is a fully responsive gaming website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://gamics-by-rushi.netlify.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://gamesite-by-rushi.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
